@@ -1,0 +1,138 @@
+{
+    "title": "A-Frame Dutch Cabin in the Woods",
+    "address": "Running Springs, CA, United States",
+    "introduction": "Are you ready to escape the hustle and bustle of city life and immerse yourself in the serene beauty of nature? Look no further than our A-Frame Dutch Cabin in the Woods, nestled in the picturesque Running Springs, CA. This cozy cabin promises an unforgettable retreat, complete with all the amenities you need for a relaxing getaway.",
+    "description": "Our A-Frame Dutch Cabin is a haven of comfort and charm. With two bedrooms and two bathrooms, it's perfect for families or groups of friends looking to unwind together. With enough space to sleep up to 10 people, and five comfortable beds, everyone will find their cozy nook.",
+    "descriptionBottom": "Don't miss the chance to escape to our A-Frame Dutch Cabin in the Woods. Whether you're seeking adventure in the great outdoors or a peaceful retreat by the fireplace, this cabin has it all. Book your stay today and embark on a journey into nature's embrace.    ",
+    "checkInDate": "2015-03-30 15:04:00",
+    "checkOutDate": "2015-03-30 15:04:00",
+    "price": 150,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sleeps": 10,
+    "beds": 5,
+    "propertyType": "Cabin",
+    "roomType": "Entire home",
+    "amenities": "TV ,Internet , Wireless Internet, Kitchen, Indoor Fireplace, Family/Kid Friendly, Washer,Dryer",
+    "houseRules": "MyText",
+    "cancellationPolicy": "MyText",
+    "minStay": 2,
+    "photos": [
+        {
+            "url": "https://i.imgur.com/6ob38sh.jpg",
+            "caption": "Front of Cabin"
+        },
+        {
+            "url": "https://i.imgur.com/8sX6Hio.jpg",
+            "caption": "Cabin's front window"
+        },
+        {
+            "url": "https://i.imgur.com/L5L8xOV.jpg",
+            "caption": "Side of Cabin"
+        },
+        {
+            "url": "https://i.imgur.com/TSf22P8.jpg",
+            "caption": "Living Room"
+        },
+        {
+            "url": "https://i.imgur.com/YPGZRVc.jpg",
+            "caption": "Living Room two"
+        },
+        {
+            "url": "https://i.imgur.com/pgwtlyc.jpg",
+            "caption": "day bed"
+        },
+        {
+            "url": "https://i.imgur.com/opCtPf8.jpg",
+            "caption": "A Frame Cabin ceiling"
+        },
+        {
+            "url": "https://i.imgur.com/mAcEiMQ.jpg",
+            "caption": "Top Room with two beds"
+        },
+        {
+            "url": "https://i.imgur.com/04mWwsZ.jpg",
+            "caption": "Bedroom"
+        },
+        {
+            "url": "https://i.imgur.com/7LYqeJb.jpg",
+            "caption": "Cabin's front window with snow"
+        },
+        {
+            "url": "https://i.imgur.com/c1Ci8K6.jpg",
+            "caption": "Snow Covered backyard"
+        },
+        {
+            "url": "https://i.imgur.com/GAwuszA.jpg",
+            "caption": "Snow covered patio"
+        },
+        {
+            "url": "https://i.imgur.com/MtChVVR.jpg",
+            "caption": "Garage"
+        },
+        {
+            "url": "https://i.imgur.com/CAWmv25.jpg",
+            "caption": "Dusk"
+        },
+        {
+            "url": "https://i.imgur.com/YyaTdab.jpg",
+            "caption": "Chimney"
+        },
+        {
+            "url": "https://i.imgur.com/lMZL7UM.jpg",
+            "caption": "Tub"
+        },
+        {
+            "url": "https://i.imgur.com/Lj43f0q.jpg",
+            "caption": "Shower"
+        },
+        {
+            "url": "https://i.imgur.com/QkcZeKi.jpg",
+            "caption": "Ceiling Fan and top level"
+        },
+        {
+            "url": "https://i.imgur.com/csIHsLe.jpg",
+            "caption": "Bed"
+        },
+        {
+            "url": "https://i.imgur.com/rFou5kB.jpg",
+            "caption": "Stairs"
+        },
+        {
+            "url": "https://i.imgur.com/Z5oaipq.jpg",
+            "caption": "Kitchen"
+        },
+        {
+            "url": "https://i.imgur.com/67yNB1q.jpg",
+            "caption": "Lower floor"
+        },
+        {
+            "url": "https://i.imgur.com/brWN5hB.jpg",
+            "caption": "Tub wide angle"
+        },
+        {
+            "url": "https://i.imgur.com/en1XuSd.jpg",
+            "caption": "Whole Billiard Table"
+        },
+        {
+            "url": "https://i.imgur.com/AIPxIbF.jpg",
+            "caption": "Billiard Table"
+        },
+        {
+            "url": "https://i.imgur.com/lxewsvv.jpg",
+            "caption": "Garage/Family Room"
+        },
+        {
+            "url": "https://i.imgur.com/vRRgzEO.jpg",
+            "caption": "Snow on truck"
+        },
+        {
+            "url": "https://i.imgur.com/ZdtaEoA.jpg",
+            "caption": "The point"
+        }
+    ],
+    "host": {
+        "firstName": "Erika and Magaly",
+        "contactInstructions": "Contact Information: Provide clear contact information, including a phone number and email address, so potential guests can reach out with inquiries or to make reservations."
+    }
+}
