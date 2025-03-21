@@ -1,7 +1,8 @@
 import BookingWidget from "./BookingWidget";
 import PlaceGallery from "./PlaceGallery";
 import AddressLink from "./Addresslink";
-import place from "./place.json";
+import data from "./place.json";
+const place = data.places[0];
 
 
 
@@ -38,7 +39,7 @@ export default function PlacePage() {
                     <br />
                     <div className="my-4">
                         <h2 className="font-semibold text-2xl">Hosts</h2>
-                        Host: {place.host.firstName} <br />
+                        Host: {place.host?.firstName || 'N/A'} <br />
                         Guidelines for Checking Availability, Contacting the Host, and Making Reservations:<br />
                         Availability Check:<br />
                         To inquire about available dates, please consult our calendar. You can access it on our website by clicking the 'Availability Calendar' link.
