@@ -2,9 +2,11 @@
   "places": [
     {
       "id": "5748",
-      "name": "5748 10th Avenue",
-      "address": "Address details for 5748",
+      "name": "Front House",
+      "address": "Front House",
       "description": "Information about this property.",
+      "bedrooms": 3,
+      "bathrooms": 2,
       "photos": [
         "/photos/5748/574810thAvenue-www.samwadieh.com-02.jpg",
         "/photos/5748/574810thAvenue-www.samwadieh.com-11.jpg",
@@ -35,8 +37,8 @@
     },
     {
       "id": "5750_ADU",
-      "name": "5750 ADU",
-      "address": "Address details for 5750 ADU",
+      "name": "ADU",
+      "address": "ADU",
       "description": "Information about the ADU property.",
       "photos": [
         "/photos/5750_ADU/574810thAvenue-www.samwadieh.com-67.jpg",
