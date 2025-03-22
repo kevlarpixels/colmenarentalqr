@@ -1,7 +1,7 @@
 {
   "places": [
     {
-      "id": "5748",
+      "id": "Front_House",
       "name": "Front House",
       "address": "Front House",
       "description": "Information about this property.",
@@ -33,10 +33,10 @@
         "/photos/5748/574810thAvenue-www.samwadieh.com-60.jpg",
         "/photos/5748/574810thAvenue-www.samwadieh.com-63.jpg"
       ],
-      "listingUrl": "/place/5748"
+      "listingUrl": "/place/Front_House"
     },
     {
-      "id": "5750_ADU",
+      "id": "ADU",
       "name": "ADU",
       "address": "ADU",
       "description": "Information about the ADU property.",
@@ -55,7 +55,7 @@
         "/photos/5750_ADU/574810thAvenue-www.samwadieh.com-85.jpg",
         "/photos/5750_ADU/574810thAvenue-www.samwadieh.com-86.jpg"
       ],
-      "listingUrl": "/place/5750_ADU"
+      "listingUrl": "/place/ADU"
     }
   ]
 }
