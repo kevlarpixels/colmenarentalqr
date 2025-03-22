@@ -1,12 +1,12 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import BookingWidget from "./BookingWidget";
 import PlaceGallery from "./PlaceGallery";
-import AddressLink from "./Addresslink";
 import placeData from './place.json';
 
 const PlacePage = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const place = placeData.places.find(p => p.id === id);
   
   if (!place) {
@@ -16,7 +16,12 @@ const PlacePage = () => {
   return (
     <div className="mt-4 bg-gray-100 -mx-8 px-16 pt-8">
       <h1 className="text-2xl">{place.title}</h1>
-      <AddressLink>{place.address}</AddressLink>
+      <button 
+        onClick={() => navigate('/')} 
+        className="primary mt-4 mb-4 md:w-auto" // responsive width: full on mobile, auto on desktop
+      >
+        Back to Home
+      </button>
       <PlaceGallery place={place} />
       <div className="mt-8 mb-8 grid gap-8 grid-cols-1 md:grid-cols-[2fr_1fr]">
         <div>
